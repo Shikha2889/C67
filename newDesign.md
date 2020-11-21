@@ -3,3 +3,4 @@
 3.Increase the length.
 4.Matte Finish.
 5.Change the window size.
+6.Dashboard Size -Circular.
